@@ -51,6 +51,10 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+.primary-link:hover {
+  color: white;
+  opacity: 0.8;
+}
 
 .secondary-link {
   border-radius: 4px;
